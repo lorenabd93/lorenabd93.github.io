@@ -5,7 +5,7 @@
     display:flex;
     align-items: center;
     justify-content: center;
-    background: url(imagenes/colorfondo.png);
+    background: url(colorfondo.png);
     background-size: cover;
     font-family: 'Rancho', cursive;
     font-size: 0.7cm;
